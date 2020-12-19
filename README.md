@@ -8,7 +8,7 @@ This repository contains the details of a project initiated by PLabs, market lea
 * Sinan Can Soysal
 * Omer Faruk Gurbuz
 
-
+**Further descriptions will be added while the development process running..**
 
 
 
