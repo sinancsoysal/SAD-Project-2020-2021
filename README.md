@@ -14,4 +14,4 @@ This repository contains the details of a project initiated by PLabs, market lea
 * ER Diagram added
 * ERD Database Design Model added
 * System Requirements added
-
+* System Architecture Diagram added
