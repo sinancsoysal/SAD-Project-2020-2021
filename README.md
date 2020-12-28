@@ -10,5 +10,8 @@ This repository contains the details of a project initiated by PLabs, market lea
 
 **Further descriptions will be added while the development process running..**
 
-
+**28 Dec 2020**
+* ER Diagram added
+* ERD Database Design Model added
+* System Requirements added
 
